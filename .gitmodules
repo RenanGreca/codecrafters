@@ -1,3 +1,0 @@
-[submodule "go/http-server"]
-	path = go/http-server
-	url = https://git.codecrafters.io/03c294e23f55b62d
