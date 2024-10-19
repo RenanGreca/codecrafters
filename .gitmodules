@@ -1,0 +1,3 @@
+[submodule "go/bittorrent"]
+	path = go/bittorrent
+	url = https://git.codecrafters.io/782ed21c2a86bce1
